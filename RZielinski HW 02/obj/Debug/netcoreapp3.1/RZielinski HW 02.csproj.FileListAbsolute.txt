@@ -1,0 +1,13 @@
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\bin\Debug\netcoreapp3.1\RZielinski HW 02.exe
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\bin\Debug\netcoreapp3.1\RZielinski HW 02.deps.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\bin\Debug\netcoreapp3.1\RZielinski HW 02.runtimeconfig.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\bin\Debug\netcoreapp3.1\RZielinski HW 02.runtimeconfig.dev.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\bin\Debug\netcoreapp3.1\RZielinski HW 02.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\bin\Debug\netcoreapp3.1\RZielinski HW 02.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\obj\Debug\netcoreapp3.1\RZielinski HW 02.csprojAssemblyReference.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\obj\Debug\netcoreapp3.1\RZielinski HW 02.AssemblyInfoInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\obj\Debug\netcoreapp3.1\RZielinski HW 02.AssemblyInfo.cs
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\obj\Debug\netcoreapp3.1\RZielinski HW 02.csproj.CoreCompileInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\obj\Debug\netcoreapp3.1\RZielinski HW 02.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\obj\Debug\netcoreapp3.1\RZielinski HW 02.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 02\obj\Debug\netcoreapp3.1\RZielinski HW 02.genruntimeconfig.cache
