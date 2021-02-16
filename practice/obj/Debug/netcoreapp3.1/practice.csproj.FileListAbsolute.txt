@@ -1,0 +1,13 @@
+D:\Users\Richard\Desktop\hi\practice\bin\Debug\netcoreapp3.1\practice.exe
+D:\Users\Richard\Desktop\hi\practice\bin\Debug\netcoreapp3.1\practice.deps.json
+D:\Users\Richard\Desktop\hi\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.json
+D:\Users\Richard\Desktop\hi\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.dev.json
+D:\Users\Richard\Desktop\hi\practice\bin\Debug\netcoreapp3.1\practice.dll
+D:\Users\Richard\Desktop\hi\practice\bin\Debug\netcoreapp3.1\practice.pdb
+D:\Users\Richard\Desktop\hi\practice\obj\Debug\netcoreapp3.1\practice.csprojAssemblyReference.cache
+D:\Users\Richard\Desktop\hi\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfoInputs.cache
+D:\Users\Richard\Desktop\hi\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfo.cs
+D:\Users\Richard\Desktop\hi\practice\obj\Debug\netcoreapp3.1\practice.csproj.CoreCompileInputs.cache
+D:\Users\Richard\Desktop\hi\practice\obj\Debug\netcoreapp3.1\practice.dll
+D:\Users\Richard\Desktop\hi\practice\obj\Debug\netcoreapp3.1\practice.pdb
+D:\Users\Richard\Desktop\hi\practice\obj\Debug\netcoreapp3.1\practice.genruntimeconfig.cache

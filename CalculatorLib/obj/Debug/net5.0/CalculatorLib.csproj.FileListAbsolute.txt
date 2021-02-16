@@ -1,0 +1,12 @@
+D:\Users\Richard\Desktop\hi\CalculatorLib\bin\Debug\net5.0\CalculatorLib.deps.json
+D:\Users\Richard\Desktop\hi\CalculatorLib\bin\Debug\net5.0\CalculatorLib.dll
+D:\Users\Richard\Desktop\hi\CalculatorLib\bin\Debug\net5.0\ref\CalculatorLib.dll
+D:\Users\Richard\Desktop\hi\CalculatorLib\bin\Debug\net5.0\CalculatorLib.pdb
+D:\Users\Richard\Desktop\hi\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csprojAssemblyReference.cache
+D:\Users\Richard\Desktop\hi\CalculatorLib\obj\Debug\net5.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Richard\Desktop\hi\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\Users\Richard\Desktop\hi\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfo.cs
+D:\Users\Richard\Desktop\hi\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Users\Richard\Desktop\hi\CalculatorLib\obj\Debug\net5.0\CalculatorLib.dll
+D:\Users\Richard\Desktop\hi\CalculatorLib\obj\Debug\net5.0\ref\CalculatorLib.dll
+D:\Users\Richard\Desktop\hi\CalculatorLib\obj\Debug\net5.0\CalculatorLib.pdb
