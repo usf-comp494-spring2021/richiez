@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RZielinski HW 04", "RZielinski HW 04.csproj", "{62EB85D2-9226-4973-A22A-739C42995382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RZielinski HW04 Main", "..\RZielinski HW04 Main\RZielinski HW04 Main.csproj", "{7A40F88B-AA89-450B-AB46-C873BED0758C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62EB85D2-9226-4973-A22A-739C42995382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EB85D2-9226-4973-A22A-739C42995382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EB85D2-9226-4973-A22A-739C42995382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EB85D2-9226-4973-A22A-739C42995382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A40F88B-AA89-450B-AB46-C873BED0758C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A40F88B-AA89-450B-AB46-C873BED0758C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A40F88B-AA89-450B-AB46-C873BED0758C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A40F88B-AA89-450B-AB46-C873BED0758C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1307A94-FF37-4B83-A2C3-0EC15B0D7518}
+	EndGlobalSection
+EndGlobal

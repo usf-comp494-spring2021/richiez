@@ -1,0 +1,16 @@
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\obj\Debug\net5.0\Practice 2-22-21.csprojAssemblyReference.cache
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\obj\Debug\net5.0\Practice 2-22-21.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\obj\Debug\net5.0\Practice 2-22-21.AssemblyInfoInputs.cache
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\obj\Debug\net5.0\Practice 2-22-21.AssemblyInfo.cs
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\obj\Debug\net5.0\Practice 2-22-21.csproj.CoreCompileInputs.cache
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\bin\Debug\net5.0\Practice 2-22-21.exe
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\bin\Debug\net5.0\Practice 2-22-21.deps.json
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\bin\Debug\net5.0\Practice 2-22-21.runtimeconfig.json
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\bin\Debug\net5.0\Practice 2-22-21.runtimeconfig.dev.json
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\bin\Debug\net5.0\Practice 2-22-21.dll
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\bin\Debug\net5.0\ref\Practice 2-22-21.dll
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\bin\Debug\net5.0\Practice 2-22-21.pdb
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\obj\Debug\net5.0\Practice 2-22-21.dll
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\obj\Debug\net5.0\ref\Practice 2-22-21.dll
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\obj\Debug\net5.0\Practice 2-22-21.pdb
+d:\Users\Richard\Desktop\hi\Practice 2-22-21\obj\Debug\net5.0\Practice 2-22-21.genruntimeconfig.cache
