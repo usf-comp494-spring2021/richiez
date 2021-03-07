@@ -10,3 +10,15 @@ D:\Users\Richard\Desktop\hi\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.c
 D:\Users\Richard\Desktop\hi\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.dll
 D:\Users\Richard\Desktop\hi\RZielinski HW 04\obj\Debug\net5.0\ref\RZielinski HW 04.dll
 D:\Users\Richard\Desktop\hi\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\bin\Debug\net5.0\RZielinski HW 04.deps.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\bin\Debug\net5.0\RZielinski HW 04.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\bin\Debug\net5.0\ref\RZielinski HW 04.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\bin\Debug\net5.0\RZielinski HW 04.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.csprojAssemblyReference.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.AssemblyInfoInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.AssemblyInfo.cs
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.csproj.CoreCompileInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\obj\Debug\net5.0\ref\RZielinski HW 04.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW 04\obj\Debug\net5.0\RZielinski HW 04.pdb

@@ -12,6 +12,9 @@ namespace RZielinski_HW_04
     { 
         public string manufacture, model, purposeCode, CPUCode;
 
+        /// <summary>
+        /// This is the default contructor that will give the object of the class the default values of blank 
+        /// </summary>
         public Computer()
         {
             manufacture = "";
@@ -20,6 +23,13 @@ namespace RZielinski_HW_04
             CPUCode = "";
         }
 
+        /// <summary>
+        /// This is the perameterized contructor that will give the object of the class the values input byu the user or the coder in main in this case 
+        /// </summary>
+        /// <param name="usrManufacture"> The string the user inputs as the computers manufacuter </param>
+        /// <param name="usrModel"> The string the user inputs as the computers model </param>
+        /// <param name="usrPurposeCode"> The string the user inputs as the computers purpose code </param>
+        /// <param name="usrCPUCode"> The string the user inputs as the computers CPU Code </param>
         public Computer(string usrManufacture, string usrModel, string usrPurposeCode, string usrCPUCode)
         {
             manufacture = usrManufacture;
@@ -27,11 +37,14 @@ namespace RZielinski_HW_04
             purposeCode = usrPurposeCode;
             CPUCode = usrCPUCode;
         }
-
-        public void WriteToConsole()
+        /// <summary>
+        /// The Write to console function takes the vars specified and prints them to the screen
+        /// It will then print it to the screen when ran
+        /// </summary>
+        public virtual void WriteToConsole()
         {
             WriteLine(
-                format: "{0} {1} {2} {3}",
+                format: "The Computer: [Manufacture: {0} ; Model: {1} ; Purpose Code: {2} ; CPU Code: {3}]",
                 manufacture,
                 model,
                 purposeCode,

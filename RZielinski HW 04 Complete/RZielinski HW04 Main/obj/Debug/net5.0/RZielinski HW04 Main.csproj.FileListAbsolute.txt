@@ -17,3 +17,22 @@ d:\Users\Richard\Desktop\hi\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW0
 d:\Users\Richard\Desktop\hi\RZielinski HW04 Main\obj\Debug\net5.0\ref\RZielinski HW04 Main.dll
 d:\Users\Richard\Desktop\hi\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.pdb
 d:\Users\Richard\Desktop\hi\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.genruntimeconfig.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\bin\Debug\net5.0\RZielinski HW04 Main.exe
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\bin\Debug\net5.0\RZielinski HW04 Main.deps.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\bin\Debug\net5.0\RZielinski HW04 Main.runtimeconfig.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\bin\Debug\net5.0\RZielinski HW04 Main.runtimeconfig.dev.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\bin\Debug\net5.0\RZielinski HW04 Main.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\bin\Debug\net5.0\ref\RZielinski HW04 Main.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\bin\Debug\net5.0\RZielinski HW04 Main.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\bin\Debug\net5.0\RZielinski HW 04.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\bin\Debug\net5.0\RZielinski HW 04.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.csprojAssemblyReference.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.AssemblyInfoInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.AssemblyInfo.cs
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.csproj.CoreCompileInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.csproj.CopyComplete
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\ref\RZielinski HW04 Main.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 04 Complete\RZielinski HW04 Main\obj\Debug\net5.0\RZielinski HW04 Main.genruntimeconfig.cache

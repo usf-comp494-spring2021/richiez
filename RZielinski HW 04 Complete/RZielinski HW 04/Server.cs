@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Author: Richard Zielinski 
+// date: 2/15/21
+// project: HW 3
+// purpose: making a class libray and testing it with a test project
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,12 +14,17 @@ namespace RZielinski_HW_04
 {
     public class Server : Computer
     {
+        // server also defined with CPUCount 
         public int CPUCount;
 
-        public void WriteToConsole()
+        public override void WriteToConsole()
         {
+            /// <summary>
+            /// The Write to console function taken from the parent class to get the shared variables but also update it with the new CPUCount var
+            /// It will then print it to the screen when ran
+            /// </summary>
             WriteLine(
-                format: "{0} {1} {2} {3} {4}",
+                format: "The Server: [Manufacture: {0} ; Model: {1} ; Purpose Code: {2} ; CPU Code: {3} ; Screen Size: {4}]",
                 manufacture,
                 model,
                 purposeCode,

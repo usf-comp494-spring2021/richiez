@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04\\RZielinski HW 04.csproj": {}
+    "d:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04 Complete\\RZielinski HW 04\\RZielinski HW 04.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04\\RZielinski HW 04.csproj": {
+    "d:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04 Complete\\RZielinski HW 04\\RZielinski HW 04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04\\RZielinski HW 04.csproj",
+        "projectUniqueName": "d:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04 Complete\\RZielinski HW 04\\RZielinski HW 04.csproj",
         "projectName": "RZielinski HW 04",
-        "projectPath": "D:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04\\RZielinski HW 04.csproj",
+        "projectPath": "d:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04 Complete\\RZielinski HW 04\\RZielinski HW 04.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04\\obj\\",
+        "outputPath": "d:\\Users\\Richard\\Desktop\\hi\\RZielinski HW 04 Complete\\RZielinski HW 04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Richard\\AppData\\Roaming\\NuGet\\NuGet.Config",
