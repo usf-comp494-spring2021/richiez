@@ -24,7 +24,7 @@ namespace RZielinski_HW_04
             /// It will then print it to the screen when ran
             /// </summary>
             WriteLine(
-                format: "The Server: [Manufacture: {0} ; Model: {1} ; Purpose Code: {2} ; CPU Code: {3} ; Screen Size: {4}]",
+                format: "The Server: [Manufacture: {0} ; Model: {1} ; Purpose Code: {2} ; CPU Code: {3} ; CPU Count: {4}]",
                 manufacture,
                 model,
                 purposeCode,

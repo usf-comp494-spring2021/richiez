@@ -20,34 +20,34 @@ namespace RZielinski_HW04_Main
             /// <summary>
             /// An object is made for a computer and printed out to the screen
             /// </summary>
-            Computer test = new Computer();
-            test.manufacture = "Dell";
-            test.model = "Alienware";
-            test.purposeCode = "1234";
-            test.CPUCode = "5678";
-            test.WriteToConsole();
+            Computer Computertest = new Computer();
+            Computertest.manufacture = "Dell";
+            Computertest.model = "Alienware";
+            Computertest.purposeCode = "1234";
+            Computertest.CPUCode = "5678";
+            Computertest.WriteToConsole();
 
             /// <summary>
             /// An object is made for a laptop and printed out to the screen
             /// </summary>
-            Laptop test2 = new Laptop();
-            test2.manufacture = "HP";
-            test2.model = "The Best Laptop Ever";
-            test2.purposeCode = "7346";
-            test2.CPUCode = "7193";
-            test2.screenSize = 13;
-            test2.WriteToConsole();
+            Laptop Laptoptest = new Laptop();
+            Laptoptest.manufacture = "HP";
+            Laptoptest.model = "The Best Laptop Ever";
+            Laptoptest.purposeCode = "7346";
+            Laptoptest.CPUCode = "7193";
+            Laptoptest.screenSize = 13;
+            Laptoptest.WriteToConsole();
 
             /// <summary>
             /// An object is made for a server and printed out to the screen
             /// </summary>
-            Server test3 = new Server();
-            test3.manufacture = "IBM";
-            test3.model = "Does IBM still make computers?: The server";
-            test3.purposeCode = "7412";
-            test3.CPUCode = "8963";
-            test3.CPUCount = 3;
-            test3.WriteToConsole();
+            Server Servertest = new Server();
+            Servertest.manufacture = "IBM";
+            Servertest.model = "Does IBM still make computers?: The server";
+            Servertest.purposeCode = "7412";
+            Servertest.CPUCode = "8963";
+            Servertest.CPUCount = 3;
+            Servertest.WriteToConsole();
 
         }
     }
