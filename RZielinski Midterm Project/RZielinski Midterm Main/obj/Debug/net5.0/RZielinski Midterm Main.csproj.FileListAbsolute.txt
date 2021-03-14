@@ -1,0 +1,19 @@
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\bin\Debug\net5.0\RZielinski Midterm Main.exe
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\bin\Debug\net5.0\RZielinski Midterm Main.deps.json
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\bin\Debug\net5.0\RZielinski Midterm Main.runtimeconfig.json
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\bin\Debug\net5.0\RZielinski Midterm Main.runtimeconfig.dev.json
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\bin\Debug\net5.0\RZielinski Midterm Main.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\bin\Debug\net5.0\ref\RZielinski Midterm Main.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\bin\Debug\net5.0\RZielinski Midterm Main.pdb
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\bin\Debug\net5.0\CalculatorLib.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\bin\Debug\net5.0\CalculatorLib.pdb
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\RZielinski Midterm Main.csprojAssemblyReference.cache
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\RZielinski Midterm Main.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\RZielinski Midterm Main.AssemblyInfoInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\RZielinski Midterm Main.AssemblyInfo.cs
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\RZielinski Midterm Main.csproj.CoreCompileInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\RZielinski Midterm Main.csproj.CopyComplete
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\RZielinski Midterm Main.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\ref\RZielinski Midterm Main.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\RZielinski Midterm Main.pdb
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\RZielinski Midterm Main\obj\Debug\net5.0\RZielinski Midterm Main.genruntimeconfig.cache

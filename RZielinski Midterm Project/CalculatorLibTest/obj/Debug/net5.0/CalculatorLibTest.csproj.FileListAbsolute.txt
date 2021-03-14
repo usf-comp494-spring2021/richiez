@@ -1,0 +1,303 @@
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.deps.json
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.runtimeconfig.json
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.runtimeconfig.dev.json
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ref\CalculatorLibTest.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.pdb
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\testhost.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\xunit.abstractions.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\xunit.assert.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\xunit.core.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\xunit.execution.dotnet.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\CalculatorLib.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\bin\Debug\net5.0\CalculatorLib.pdb
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.csprojAssemblyReference.cache
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.AssemblyInfoInputs.cache
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.AssemblyInfo.cs
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.csproj.CoreCompileInputs.cache
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.csproj.CopyComplete
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\ref\CalculatorLibTest.dll
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.pdb
+D:\Users\Richard\Desktop\hi\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.genruntimeconfig.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.deps.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.runtimeconfig.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.runtimeconfig.dev.json
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ref\CalculatorLibTest.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\testhost.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\xunit.abstractions.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\xunit.assert.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\xunit.core.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\xunit.execution.dotnet.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\CalculatorLib.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\bin\Debug\net5.0\CalculatorLib.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.csprojAssemblyReference.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.AssemblyInfoInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.AssemblyInfo.cs
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.csproj.CoreCompileInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.csproj.CopyComplete
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\ref\CalculatorLibTest.dll
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.pdb
+d:\Users\Richard\Desktop\hi\RZielinski HW 03\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.genruntimeconfig.cache
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.deps.json
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.runtimeconfig.json
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.runtimeconfig.dev.json
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ref\CalculatorLibTest.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\CalculatorLibTest.pdb
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\testhost.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\xunit.abstractions.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\xunit.assert.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\xunit.core.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\xunit.execution.dotnet.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\CalculatorLib.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\bin\Debug\net5.0\CalculatorLib.pdb
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.csprojAssemblyReference.cache
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.AssemblyInfoInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.AssemblyInfo.cs
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.csproj.CoreCompileInputs.cache
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.csproj.CopyComplete
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\ref\CalculatorLibTest.dll
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.pdb
+d:\Users\Richard\Desktop\hi\RZielinski Midterm Project\CalculatorLibTest\obj\Debug\net5.0\CalculatorLibTest.genruntimeconfig.cache
