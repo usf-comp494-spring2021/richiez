@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqGWMrjIlujnLE1f/y1e6A778fhLyYJ6xdSqEBkEq8fhFi2ItH44RltT9DoOgNnDIX38CpPRwAQPWHuY6u1mRg==",
+  "success": false,
+  "projectFilePath": "d:\\Users\\Richard\\Desktop\\hi\\NorthwindEmployees\\NorthwindEmployees\\NorthwindEmployees.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'd:\\Users\\Richard\\Desktop\\hi\\NorthwindEmployees\\NorthwindContextLib\\NorthwindContextLib.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "d:\\Users\\Richard\\Desktop\\hi\\NorthwindEmployees\\NorthwindContextLib\\NorthwindContextLib.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

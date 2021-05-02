@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="1.5.5" />
+    <PackageReference Include="Microsoft.ML.Recommender" Version="0.17.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NorthwindContextLib (1)\NorthwindContextLib\NorthwindContextLib.csproj" />
+    <ProjectReference Include="..\NorthwindEmployees\NorthwindEmployees\NorthwindEmployees.csproj" />
+    <ProjectReference Include="..\NorthwindEntitiesLib (1)\NorthwindEntitiesLib\NorthwindEntitiesLib.csproj" />
+  </ItemGroup>
+
+</Project>

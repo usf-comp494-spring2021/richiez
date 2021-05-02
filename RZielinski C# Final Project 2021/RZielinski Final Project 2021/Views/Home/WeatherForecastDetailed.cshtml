@@ -1,0 +1,25 @@
+﻿@model RZielinski_Final_Project_2021.Models.WeatherForecastDetailed
+
+@{
+    ViewData["Title"] = "Weather Forecast Details";
+}
+<h1>Detailed Weather Forecast</h1>
+
+@*The purpose of this is to pull the variables from the detailed weather forecast model and diplsay it on its page in the website*@
+<p>Forecast Date: @Html.DisplayFor(modelItem => Model.forecastDate)</p>
+<p>Location: @Html.DisplayFor(modelItem => Model.location)</p>
+<p>Temperature: @Html.DisplayFor(modelItem => Model.temperature)</p>
+<p>Feels Like: @Html.DisplayFor(modelItem => Model.feelsLike)</p>
+<p>Descriptor: @Html.DisplayFor(modelItem => Model.descriptor)</p>
+<p>Image Path: @Html.DisplayFor(modelItem => Model.imagePath)</p>
+<p>Wind Speed: @Html.DisplayFor(modelItem => Model.windSpeed)</p>
+<p>Wind Direction: @Html.DisplayFor(modelItem => Model.windDirection)</p>
+<p>Pressure: @Html.DisplayFor(modelItem => Model.pressure)</p>
+<p>Visability: @Html.DisplayFor(modelItem => Model.visability)</p>
+<p>Clouds: @Html.DisplayFor(modelItem => Model.clouds)</p>
+<p>Humidity: @Html.DisplayFor(modelItem => Model.humidity)</p>
+<p>Rainfall: @Html.DisplayFor(modelItem => Model.rainfall)</p>
+<p>Snowfall: @Html.DisplayFor(modelItem => Model.snowfall)</p>
+
+
+

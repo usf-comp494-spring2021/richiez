@@ -1,0 +1,27 @@
+﻿@model IEnumerable<WeatherForecastHourly>
+
+@{
+    ViewData["Title"] = "Weather Forecast Hourly";
+}
+
+<h1>Hourly Weather Forecast</h1>
+@{ foreach (var item in Model)
+    {
+        @*The purpose of this is to pull the variables from the hourly weather forecast model and diplsay it on its page in the website*@
+        <p>Forecast Date: @Html.DisplayFor(modelItem => item.forecastDate)</p>
+        <p>Temperature: @Html.DisplayFor(modelItem => item.temperature)</p>
+        <p>Feels Like: @Html.DisplayFor(modelItem => item.feelsLike)</p>
+        <p>Descriptor: @Html.DisplayFor(modelItem => item.descriptor)</p>
+        <p>Image Path: @Html.DisplayFor(modelItem => item.imagePath)</p>
+        <p>Wind Speed: @Html.DisplayFor(modelItem => item.windSpeed)</p>
+        <p>Wind Direction: @Html.DisplayFor(modelItem => item.windDirection)</p>
+        <p>Pressure: @Html.DisplayFor(modelItem => item.pressure)</p>
+        <p>Precipitation Percent: @Html.DisplayFor(modelItem => item.precipitationPercent)</p>
+        <p>Precipitation Amount: @Html.DisplayFor(modelItem => item.precipitationAmount)</p>
+        <p>Cloud Cover: @Html.DisplayFor(modelItem => item.cloudCover)</p>
+        <p>Dew Point: @Html.DisplayFor(modelItem => item.dewPoint)</p>
+        <p>Humidity: @Html.DisplayFor(modelItem => item.humidity)</p>
+        <p>-------------------------------------------------</p>
+    }
+}
+

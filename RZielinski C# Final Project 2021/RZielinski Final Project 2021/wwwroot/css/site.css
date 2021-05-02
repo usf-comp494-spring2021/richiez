@@ -1,0 +1,89 @@
+﻿/* The point of this file is to handle all of the primary stylizing of the website as you can see each section handles a different part of the pages and are styled to have a cohessive feel */
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    color: white;
+    
+  
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+div {
+    background-color: black;
+    padding: 10px;
+    border: 2px solid powderblue;
+    margin: 10px;
+}
+
+body {
+
+    color: white;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhardcore-gamer.s3.amazonaws.com%2Fuploads%2F2018%2F02%2FSotC-Map-Shrine1080.jpg&f=1&nofb=1');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: white;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}

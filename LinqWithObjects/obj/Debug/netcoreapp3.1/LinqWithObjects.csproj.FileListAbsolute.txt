@@ -1,0 +1,13 @@
+d:\Users\Richard\Desktop\hi\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.exe
+d:\Users\Richard\Desktop\hi\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.deps.json
+d:\Users\Richard\Desktop\hi\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.runtimeconfig.json
+d:\Users\Richard\Desktop\hi\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.runtimeconfig.dev.json
+d:\Users\Richard\Desktop\hi\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.dll
+d:\Users\Richard\Desktop\hi\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.pdb
+d:\Users\Richard\Desktop\hi\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.csprojAssemblyReference.cache
+d:\Users\Richard\Desktop\hi\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.AssemblyInfoInputs.cache
+d:\Users\Richard\Desktop\hi\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.AssemblyInfo.cs
+d:\Users\Richard\Desktop\hi\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.csproj.CoreCompileInputs.cache
+d:\Users\Richard\Desktop\hi\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.dll
+d:\Users\Richard\Desktop\hi\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.pdb
+d:\Users\Richard\Desktop\hi\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.genruntimeconfig.cache
